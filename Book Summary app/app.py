@@ -5,7 +5,7 @@ import time
 
 # Load environment variables from .env file
 load_dotenv()
-client = Groq(api_key="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")
+client = Groq(api_key="your_groq_key")
 chat=[]
 
 model1 = "llama-3.1-8b-instant"
