@@ -37,18 +37,6 @@ An AI-powered web application that generates concise book summaries, interactive
   - Question Generation
   - Question Answering
 
-## 📸 Screenshots
-
-Add screenshots here after deployment.
-
-### Home Page
-![Home](screenshots/home.png)
-
-### Generated Summary
-![Summary](screenshots/summary.png)
-
-### AI Questions & Answers
-![Questions](screenshots/questions.png)
 
 ## ⚙️ Installation
 
